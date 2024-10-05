@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: 
+Disallow: /cgi-bin/
+Disallow: /login
+Disallow: /mycart
+Disallow: /checkout
+Disallow: /user/wishlist
+Disallow: /wholesale
+Disallow: /page/terms-and-conditions
+Disallow: /page/privacy-policy
+Disallow: /page/shipping-policy
+Disallow: /page/refund-and-cancellation-policy
